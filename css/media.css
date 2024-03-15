@@ -435,6 +435,9 @@
     .image-rent {
         margin-top: -25px;
     }
+    .irs--flat .irs-min, .irs--flat .irs-max, .irs--flat .irs-from, .irs--flat .irs-to, .irs--flat .irs-single {
+        font-size: 17px;
+    }
 }
 
 @media only screen and (min-width : 900px) {
