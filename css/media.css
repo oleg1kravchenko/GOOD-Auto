@@ -189,7 +189,7 @@
     }
     .section-rent {
         padding-top: 48px;
-        padding-bottom: 50px;
+        padding-bottom: 70px;
     }
     .image-rent {
         height: 405px;
@@ -434,5 +434,11 @@
     }
     .image-rent {
         margin-top: -25px;
+    }
+}
+
+@media only screen and (min-width : 900px) {
+    .section-rent {
+        background-size: 100% 100%;
     }
 }
